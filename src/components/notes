@@ -1,1 +1,10 @@
 next is routing and data binding and js
+
+for routing we have to download another packages also.
+npm(node package manager)
+i(install)
+
+for every project we have to install this packages for routing
+
+for installing packages-
+ npm i react-router-dom
