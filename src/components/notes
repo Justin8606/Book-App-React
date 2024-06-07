@@ -8,3 +8,14 @@ for every project we have to install this packages for routing
 
 for installing packages-
  npm i react-router-dom
+
+ After installing
+ create a tag <BrowserRouter> inside that Routes tag and inside that Route tag.
+ In route we have to specify two - path & value(element).path - / kodukkumbol eth component load cheyyanam.
+
+ remove div to div tag in App.js -
+
+ alt shift down -line duplication.
+
+ spi - without page refresing page content will change,
+ for that we have to do -
